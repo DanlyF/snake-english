@@ -1,0 +1,8 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "The Snake game - the first project in VibeCode",
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
